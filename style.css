@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+
+body {
+    width:100vw;
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    color:#893168;
+    font-family: 'Fredoka One', cursive;
+    letter-spacing:8px
+}
+
+.container {
+    display:flex;
+    font-size:100px;
+}
+.divider {
+    margin:0 15px;
+}
